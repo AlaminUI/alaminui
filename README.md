@@ -16,7 +16,7 @@ I'm a passionate web developer with expertise in laravel. Welcome to my GitHub p
 
 ## 📊 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&count_private=true&hide=contribs)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlaminUI&show_icons=true&count_private=true&hide=contribs)
 
 <!-- Additional badges, GitHub stats, Gists, etc. -->
 
